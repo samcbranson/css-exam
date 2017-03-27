@@ -7,3 +7,29 @@ h1 {
   margin:0;
   padding:0;
 }
+.byline {
+  font-size: 10;
+  color: #81F7F3;
+  text-transform: uppercase;
+  margin:0;
+  padding:0;
+  border-width: 0;
+}
+.headline {
+  font-size: 20;
+  link-color: #BF5700;
+  margin:0;
+  padding:0;
+  border-width: 0;
+}
+a:link {
+  color:#BF5700;
+}
+a:visited {
+  color: #BF5700;
+}
+.paragraph {
+  margin:0;
+  padding:0;
+  border-width: 0;
+}
