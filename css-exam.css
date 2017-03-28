@@ -43,3 +43,12 @@ a:visited {
   padding: 5px;
   border-spacing: 0px;
 }
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+}
+body {
+  background-color: grey;
+}
