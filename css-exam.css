@@ -11,7 +11,7 @@ h1 {
 }
 .byline {
   font-size: 10;
-  color: #81F7F3;
+  color: ##A4A4A4;
   text-transform: uppercase;
   margin: 0px;
   padding: 0px;
@@ -51,4 +51,16 @@ a:visited {
 }
 body {
   background-color: grey;
+}
+.left-column {
+  width: 70%;
+  float-left;
+  overflow: auto;
+  box-sizing: border-box;
+}
+.right-column {
+  width: 30%;
+  float: right;
+  overflow: auto;
+  box-sizing: border-box; 
 }
