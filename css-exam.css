@@ -38,3 +38,8 @@ a:visited {
   padding: 5;
   padding-left: 5;
 }
+.moreon {
+  border-bottom-style: solid;
+  padding: 5px;
+  border-spacing: 0px;
+}
