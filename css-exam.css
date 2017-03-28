@@ -1,26 +1,26 @@
 h3 {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 5;
   font-style: italic;
 }
 h1 {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
+  border: none;
 }
 .byline {
   font-size: 10;
   color: #81F7F3;
   text-transform: uppercase;
-  margin:0;
-  padding:0;
-  border-width: 0;
+  margin: 0px;
+  padding: 0px;
 }
 .headline {
   font-size: 20;
   link-color: #BF5700;
-  margin:0;
-  padding:0;
-  border-width: 0;
+  margin: 0px;
+  padding: 0px;
 }
 a:link {
   color:#BF5700;
@@ -29,7 +29,12 @@ a:visited {
   color: #BF5700;
 }
 .paragraph {
-  margin:0;
-  padding:0;
-  border-width: 0;
+  margin: 0px;
+  padding: 0px;
+}
+.firststory {
+  background-color: #BDBDBD;
+  font-size: 125%;
+  padding: 5;
+  padding-left: 5;
 }
